@@ -1,0 +1,8 @@
+[DataPath]
+path:E:\SmartHomeAndActionRecognition\data
+
+[TimeDisperseDegree]
+length:30
+
+[device_num]
+num:10

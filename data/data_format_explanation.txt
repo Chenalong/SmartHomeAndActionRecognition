@@ -1,0 +1,11 @@
+数据文件是放在一个文件夹下，里面以.csv后缀的文件默认是数据文件  		example：E:\SmartHomeAndActionRecognition\data
+
+以下是相关字段的说明
+编号：是数字，程序中没有使用，但是解析数据时占一个字段					example：1
+时间：时间格式如下 2016/3/5  8:30:50  或者 2016/3/5  8:30 				example：2016/3/5  8:30:50
+星期：是一个0-6的整数													example：3
+季节：只能取如下四个值｛spring,summer,fall,winter｝						example：winter
+设备位置：一个字符串（不能可以为空）									example：bedroom
+设备名称：一个字符串（不能可以为空）									example：air_conditioner
+设备唯一标识符：一个整数（不能为空）									example：3
+设备状态：一个字符串，取值只能为（"ON","OFF"）							example：ON

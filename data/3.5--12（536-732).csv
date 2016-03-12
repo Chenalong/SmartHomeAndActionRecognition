@@ -1,0 +1,257 @@
+编号,时间,星期,季节,设备位置,设备名称,设备唯一标识符,设备状态
+1,2016/3/5 8:30,6,spring,bedroom,light,7,ON
+2,2016/3/5 8:30,6,spring,living_room,light,1,ON
+3,2016/3/5 8:30,6,spring,living_room,air_conditioner,3,ON
+4,2016/3/5 8:31,6,spring,Washroom,heater,8,ON
+5,2016/3/5 8:31,6,spring,kitchen,electric_cookers,9,ON
+6,2016/3/5 8:31,6,spring,study,curtain,4,ON
+7,2016/3/5 8:32,6,spring,living_room,soft_music,6,ON
+8,2016/3/5 8:33,6,spring,living_room,TV,5,ON
+9,2016/3/5 9:01,6,spring,Washroom,heater,8,OFF
+10,2016/3/5 9:30,6,spring,kitchen,electric_cookers,9,OFF
+11,2016/3/5 9:50,6,spring,living_room,TV,5,OFF
+12,2016/3/5 9:51,6,spring,living_room,soft_music,6,OFF
+13,2016/3/5 9:52,6,spring,living_room,air_conditioner,3,OFF
+14,2016/3/5 9:53,6,spring,bedroom,light,7,OFF
+15,         2016/3/5 9:55:35 ,6,spring,living_room,light,1,OFF
+16,         2016/3/5 13:03:20 ,6,spring,living_room,soft_music,6,ON
+17,         2016/3/5 13:03:55 ,6,spring,living_room,air_conditioner,3,ON
+18,         2016/3/5 14:00:46 ,6,spring,living_room,air_conditioner,3,OFF
+19,         2016/3/5 14:01:02 ,6,spring,living_room,soft_music,6,OFF
+20,         2016/3/5 18:01:48 ,6,spring,living_room,light,1,ON
+21,         2016/3/5 18:02:00 ,6,spring,living_room,air_conditioner,3,ON
+22,         2016/3/5 18:02:10 ,6,spring,study,curtain,4,OFF
+23,         2016/3/5 18:02:15 ,6,spring,kitchen,electric_cookers,9,ON
+24,         2016/3/5 18:02:52 ,6,spring,living_room,TV,5,ON
+25,         2016/3/5 19:00:53 ,6,spring,kitchen,electric_cookers,9,OFF
+26,         2016/3/5 22:00:54 ,6,spring,bedroom,light,7,ON
+27,         2016/3/5 22:01:00 ,6,spring,Washroom,heater,8,ON
+28,         2016/3/5 22:11:06 ,6,spring,Washroom,heater,8,OFF
+29,         2016/3/5 22:30:57 ,6,spring,living_room,TV,5,OFF
+30,         2016/3/5 22:31:00 ,6,spring,living_room,air_conditioner,3,OFF
+31,         2016/3/5 22:31:02 ,6,spring,living_room,light,1,OFF
+32,         2016/3/5 22:31:08 ,6,spring,bedroom,light,7,OFF
+33,2016/3/6 8:33,7,spring,bedroom,light,7,ON
+34,2016/3/6 8:33,7,spring,living_room,light,1,ON
+35,2016/3/6 8:33,7,spring,living_room,air_conditioner,3,ON
+36,2016/3/6 8:33,7,spring,Washroom,heater,8,ON
+37,2016/3/6 8:33,7,spring,kitchen,electric_cookers,9,ON
+38,2016/3/6 8:33,7,spring,study,curtain,4,ON
+39,2016/3/6 8:33,7,spring,living_room,soft_music,6,ON
+40,2016/3/6 8:33,7,spring,living_room,TV,5,ON
+41,2016/3/6 9:02,7,spring,Washroom,heater,8,OFF
+42,2016/3/6 9:33,7,spring,kitchen,electric_cookers,9,OFF
+43,         2016/3/6 10:00:12 ,7,spring,living_room,TV,5,OFF
+44,         2016/3/6 10:00:18,7,spring,living_room,soft_music,6,OFF
+45,         2016/3/6 10:00:19,7,spring,living_room,air_conditioner,3,OFF
+46,         2016/3/6 10:00:20,7,spring,bedroom,light,7,OFF
+47,         2016/3/6 10:00:21,7,spring,living_room,light,1,OFF
+48,         2016/3/6 13:00:22,7,spring,living_room,soft_music,6,ON
+49,         2016/3/6 13:00:35,7,spring,living_room,air_conditioner,3,ON
+50,         2016/3/6 14:01:24,7,spring,living_room,air_conditioner,3,OFF
+51,         2016/3/6 14:01:30,7,spring,living_room,soft_music,6,OFF
+52,         2016/3/6 18:00:26,7,spring,living_room,light,1,ON
+53,         2016/3/6 18:00:30,7,spring,living_room,air_conditioner,3,ON
+54,         2016/3/6 18:00:33,7,spring,study,curtain,4,OFF
+55,         2016/3/6 18:00:38,7,spring,kitchen,electric_cookers,9,ON
+56,         2016/3/6 18:00:45,7,spring,living_room,TV,5,ON
+57,         2016/3/6 19:02:31,7,spring,kitchen,electric_cookers,9,OFF
+58,         2016/3/6 22:01:32,7,spring,bedroom,light,7,ON
+59,         2016/3/6 22:03:33,7,spring,Washroom,heater,8,ON
+60,         2016/3/6 22:11:34,7,spring,Washroom,heater,8,OFF
+61,         2016/3/6 22:30:15,7,spring,living_room,TV,5,OFF
+62,         2016/3/6 22:31:36,7,spring,living_room,air_conditioner,3,OFF
+63,         2016/3/6 22:31:40,7,spring,living_room,light,1,OFF
+64,         2016/3/6 22:31:45,7,spring,bedroom,light,7,OFF
+65,2016/3/7 7:32,1,spring,bedroom,light,7,ON
+66,2016/3/7 7:32,1,spring,living_room,light,1,ON
+67,2016/3/7 7:32,1,spring,living_room,air_conditioner,3,ON
+68,2016/3/7 7:32,1,spring,Washroom,heater,8,ON
+69,2016/3/7 7:32,1,spring,kitchen,electric_cookers,9,ON
+70,2016/3/7 7:32,1,spring,study,curtain,4,ON
+71,2016/3/7 7:32,1,spring,living_room,soft_music,6,ON
+72,2016/3/7 7:32,1,spring,living_room,TV,5,ON
+73,2016/3/7 7:41,1,spring,Washroom,heater,8,OFF
+74,2016/3/7 8:02,1,spring,kitchen,electric_cookers,9,OFF
+75,2016/3/7 8:30,1,spring,living_room,TV,5,OFF
+76,2016/3/7 8:30,1,spring,living_room,soft_music,6,OFF
+77,2016/3/7 8:30,1,spring,bedroom,light,7,OFF
+78,2016/3/7 8:30,1,spring,living_room,air_conditioner,3,OFF
+79,2016/3/7 8:30,1,spring,living_room,light,1,OFF
+80,         2016/3/7 11:32:12 ,1,spring,living_room,soft_music,6,ON
+81,         2016/3/7 11:32:20 ,1,spring,living_room,air_conditioner,3,ON
+82,         2016/3/7 14:30:05 ,1,spring,living_room,soft_music,6,OFF
+83,         2016/3/7 14:30:10,1,spring,living_room,air_conditioner,3,OFF
+84,         2016/3/7 17:33:07 ,1,spring,living_room,light,1,ON
+85,         2016/3/7 17:33:10 ,1,spring,living_room,air_conditioner,3,ON
+86,         2016/3/7 17:33:15 ,1,spring,study,curtain,4,OFF
+87,         2016/3/7 17:33:19 ,1,spring,kitchen,electric_cookers,9,ON
+88,         2016/3/7 17:33:21 ,1,spring,living_room,TV,5,ON
+89,         2016/3/7 18:31:12 ,1,spring,kitchen,electric_cookers,9,OFF
+90,         2016/3/7 21:00:13 ,1,spring,bedroom,light,7,ON
+91,         2016/3/7 21:00:33,1,spring,Washroom,heater,8,ON
+92,         2016/3/7 21:12:15 ,1,spring,Washroom,heater,8,OFF
+93,         2016/3/7 21:33:16 ,1,spring,living_room,TV,5,OFF
+94,         2016/3/7 21:33:21 ,1,spring,living_room,air_conditioner,3,OFF
+95,         2016/3/7 21:33:28 ,1,spring,living_room,light,1,OFF
+96,         2016/3/7 21:33:35 ,1,spring,bedroom,light,7,OFF
+97,2016/3/8 7:32,2,spring,bedroom,light,7,ON
+98,2016/3/8 7:32,2,spring,living_room,light,1,ON
+99,2016/3/8 7:32,2,spring,living_room,air_conditioner,3,ON
+100,2016/3/8 7:32,2,spring,Washroom,heater,8,ON
+101,2016/3/8 7:32,2,spring,kitchen,electric_cookers,9,ON
+102,2016/3/8 7:32,2,spring,study,curtain,4,ON
+103,2016/3/8 7:32,2,spring,living_room,soft_music,6,ON
+104,2016/3/8 7:32,2,spring,living_room,TV,5,ON
+105,2016/3/8 7:40,2,spring,Washroom,heater,8,OFF
+106,2016/3/8 8:02,2,spring,kitchen,electric_cookers,9,OFF
+107,2016/3/8 8:31,2,spring,living_room,TV,5,OFF
+108,2016/3/8 8:31,2,spring,living_room,soft_music,6,OFF
+109,2016/3/8 8:31,2,spring,bedroom,light,7,OFF
+110,2016/3/8 8:31,2,spring,living_room,air_conditioner,3,OFF
+111,2016/3/8 8:31,2,spring,living_room,light,1,OFF
+112,         2016/3/8 11:35:02 ,2,spring,living_room,soft_music,6,ON
+113,         2016/3/8 11:35:20 ,2,spring,living_room,air_conditioner,3,ON
+114,         2016/3/8 14:30:00 ,2,spring,living_room,soft_music,6,OFF
+115,         2016/3/8 14:30:08,2,spring,living_room,air_conditioner,3,OFF
+116,         2016/3/8 17:30:00 ,2,spring,living_room,light,1,ON
+117,         2016/3/8 17:30:10 ,2,spring,living_room,air_conditioner,3,ON
+118,         2016/3/8 17:30:15 ,2,spring,study,curtain,4,OFF
+119,         2016/3/8 17:30:19 ,2,spring,kitchen,electric_cookers,9,ON
+120,         2016/3/8 17:30:21 ,2,spring,living_room,TV,5,ON
+121,         2016/3/8 18:30:12 ,2,spring,kitchen,electric_cookers,9,OFF
+122,         2016/3/8 21:00:30 ,2,spring,bedroom,light,7,ON
+123,         2016/3/8 21:00:33,2,spring,Washroom,heater,8,ON
+124,         2016/3/8 21:15:10 ,2,spring,Washroom,heater,8,OFF
+125,         2016/3/8 21:31:12 ,2,spring,living_room,TV,5,OFF
+126,         2016/3/8 21:31:21 ,2,spring,living_room,air_conditioner,3,OFF
+127,         2016/3/8 21:32:28 ,2,spring,living_room,light,1,OFF
+128,         2016/3/8 21:32:35 ,2,spring,bedroom,light,7,OFF
+129,2016/3/9 7:30,3,spring,bedroom,light,7,ON
+130,2016/3/9 7:30,3,spring,living_room,air_conditioner,3,ON
+131,2016/3/9 7:30,3,spring,living_room,light,1,ON
+132,2016/3/9 7:30,3,spring,study,curtain,4,ON
+133,2016/3/9 7:30,3,spring,Washroom,heater,8,ON
+134,2016/3/9 7:30,3,spring,kitchen,electric_cookers,9,ON
+135,2016/3/9 7:30,3,spring,living_room,soft_music,6,ON
+136,2016/3/9 7:30,3,spring,living_room,TV,5,ON
+137,2016/3/9 7:40,3,spring,Washroom,heater,8,OFF
+138,2016/3/9 8:01,3,spring,kitchen,electric_cookers,9,OFF
+139,2016/3/9 8:30,3,spring,living_room,TV,5,OFF
+140,2016/3/9 8:30,3,spring,living_room,soft_music,6,OFF
+141,2016/3/9 8:30,3,spring,living_room,air_conditioner,3,OFF
+142,2016/3/9 8:30,3,spring,bedroom,light,7,OFF
+143,2016/3/9 8:30,3,spring,living_room,light,1,OFF
+144,         2016/3/9 11:30:15 ,3,spring,living_room,soft_music,6,ON
+145,         2016/3/9 11:30:20 ,3,spring,living_room,air_conditioner,3,ON
+146,         2016/3/9 14:31:09 ,3,spring,living_room,soft_music,6,OFF
+147,         2016/3/9 14:31:18,3,spring,living_room,air_conditioner,3,OFF
+148,         2016/3/9 17:30:23 ,3,spring,living_room,light,1,ON
+149,         2016/3/9 17:30:25 ,3,spring,living_room,air_conditioner,3,ON
+150,         2016/3/9 17:30:30 ,3,spring,study,curtain,4,OFF
+151,         2016/3/9 17:30:33 ,3,spring,kitchen,electric_cookers,9,ON
+152,         2016/3/9 17:30:40 ,3,spring,living_room,TV,5,ON
+153,         2016/3/9 18:32:00 ,3,spring,kitchen,electric_cookers,9,OFF
+154,         2016/3/9 21:03:30 ,3,spring,bedroom,light,7,ON
+155,         2016/3/9 21:04:00,3,spring,Washroom,heater,8,ON
+156,         2016/3/9 21:13:00 ,3,spring,Washroom,heater,8,OFF
+157,         2016/3/9 21:30:00 ,3,spring,living_room,TV,5,OFF
+158,         2016/3/9 21:30:07 ,3,spring,living_room,air_conditioner,3,OFF
+159,         2016/3/9 21:30:28 ,3,spring,living_room,light,1,OFF
+160,         2016/3/9 21:30:50 ,3,spring,bedroom,light,7,OFF
+161,         2016/3/10 7:30:50,4,spring,bedroom,light,7,ON
+162,         2016/3/10 7:31:05 ,4,spring,living_room,air_conditioner,3,ON
+163,         2016/3/10 7:31:15 ,4,spring,living_room,light,1,ON
+164,         2016/3/10 7:31:18 ,4,spring,study,curtain,4,ON
+165,         2016/3/10 7:31:35 ,4,spring,Washroom,heater,8,ON
+166,         2016/3/10 7:31:50 ,4,spring,kitchen,electric_cookers,9,ON
+167,         2016/3/10 7:31:53 ,4,spring,living_room,soft_music,6,ON
+168,         2016/3/10 7:31:55 ,4,spring,living_room,TV,5,ON
+169,         2016/3/10 7:40:00 ,4,spring,Washroom,heater,8,OFF
+170,         2016/3/10 8:00:30 ,4,spring,kitchen,electric_cookers,9,OFF
+171,         2016/3/10 8:30:50 ,4,spring,living_room,TV,5,OFF
+172,         2016/3/10 8:31:01 ,4,spring,living_room,soft_music,6,OFF
+173,         2016/3/10 8:31:04 ,4,spring,living_room,air_conditioner,3,OFF
+174,         2016/3/10 8:31:10 ,4,spring,bedroom,light,7,OFF
+175,         2016/3/10 8:31:27 ,4,spring,living_room,light,1,OFF
+176,         2016/3/10 11:32:00 ,4,spring,living_room,soft_music,6,ON
+177,         2016/3/10 11:32:07 ,4,spring,living_room,air_conditioner,3,ON
+178,         2016/3/10 14:30:40 ,4,spring,living_room,soft_music,6,OFF
+179,         2016/3/10 14:31:00,4,spring,living_room,air_conditioner,3,OFF
+180,         2016/3/10 17:32:10 ,4,spring,living_room,light,1,ON
+181,         2016/3/10 17:32:25 ,4,spring,living_room,air_conditioner,3,ON
+182,         2016/3/10 17:32:31 ,4,spring,study,curtain,4,OFF
+183,         2016/3/10 17:32:33 ,4,spring,kitchen,electric_cookers,9,ON
+184,         2016/3/10 17:32:40 ,4,spring,living_room,TV,5,ON
+185,         2016/3/10 18:31:18 ,4,spring,kitchen,electric_cookers,9,OFF
+186,         2016/3/10 21:01:19 ,4,spring,bedroom,light,7,ON
+187,         2016/3/10 21:03:280,4,spring,Washroom,heater,8,ON
+188,         2016/3/10 21:10:00 ,4,spring,Washroom,heater,8,OFF
+189,         2016/3/10 21:30:55 ,4,spring,living_room,TV,5,OFF
+190,         2016/3/10 21:31:17 ,4,spring,living_room,air_conditioner,3,OFF
+191,         2016/3/10 21:31:28 ,4,spring,living_room,light,1,OFF
+192,         2016/3/10 21:32:00 ,4,spring,bedroom,light,7,OFF
+193,         2016/3/11 7:32:24 ,5,spring,bedroom,light,7,ON
+194,         2016/3/11 7:32:28 ,5,spring,living_room,air_conditioner,3,ON
+195,         2016/3/11 7:32:33 ,5,spring,living_room,light,1,ON
+196,         2016/3/11 7:32:39 ,5,spring,study,curtain,4,ON
+197,         2016/3/11 7:32:40 ,5,spring,Washroom,heater,8,ON
+198,         2016/3/11 7:32:45 ,5,spring,kitchen,electric_cookers,9,ON
+199,         2016/3/11 7:33:00 ,5,spring,living_room,soft_music,6,ON
+200,         2016/3/11 7:33:53 ,5,spring,living_room,TV,5,ON
+201,         2016/3/11 7:43:02 ,5,spring,Washroom,heater,8,OFF
+202,         2016/3/11 8:00:05 ,5,spring,kitchen,electric_cookers,9,OFF
+203,         2016/3/11 8:30:40 ,5,spring,living_room,TV,5,OFF
+204,         2016/3/11 8:30:45 ,5,spring,living_room,soft_music,6,OFF
+205,         2016/3/11 8:30:53 ,5,spring,living_room,air_conditioner,3,OFF
+206,         2016/3/11 8:30:58 ,5,spring,bedroom,light,7,OFF
+207,         2016/3/11 8:31:23 ,5,spring,living_room,light,1,OFF
+208,         2016/3/11 11:29:00 ,5,spring,living_room,soft_music,6,ON
+209,         2016/3/11 11:29:20 ,5,spring,living_room,air_conditioner,3,ON
+210,         2016/3/11 14:29:48 ,5,spring,living_room,soft_music,6,OFF
+211,         2016/3/11 14:30:10,5,spring,living_room,air_conditioner,3,OFF
+212,         2016/3/11 17:31:00,5,spring,living_room,light,1,ON
+213,         2016/3/11 17:31:10 ,5,spring,living_room,air_conditioner,3,ON
+214,         2016/3/11 17:28:19 ,5,spring,study,curtain,4,OFF
+215,         2016/3/11 17:31:20 ,5,spring,kitchen,electric_cookers,9,ON
+216,         2016/3/11 17:31:21 ,5,spring,living_room,TV,5,ON
+217,         2016/3/11 18:34:12 ,5,spring,kitchen,electric_cookers,9,OFF
+218,         2016/3/11 21:03:23 ,5,spring,bedroom,light,7,ON
+219,         2016/3/11 21:03:50 ,5,spring,Washroom,heater,8,ON
+220,         2016/3/11 21:10:12 ,5,spring,Washroom,heater,8,OFF
+221,         2016/3/11 21:32:07 ,5,spring,living_room,TV,5,OFF
+222,         2016/3/11 21:32:23 ,5,spring,living_room,air_conditioner,3,OFF
+223,         2016/3/11 21:32:33 ,5,spring,living_room,light,1,OFF
+224,         2016/3/11 21:33:10 ,5,spring,bedroom,light,7,OFF
+225,         2016/3/12 8:32:46 ,6,spring,bedroom,light,7,ON
+226,         2016/3/12 8:32:50 ,6,spring,living_room,light,1,ON
+227,         2016/3/12 8:32:55 ,6,spring,living_room,air_conditioner,3,ON
+228,         2016/3/12 8:32:05 ,6,spring,Washroom,heater,8,ON
+229,         2016/3/12 8:32:10 ,6,spring,kitchen,electric_cookers,9,ON
+230,         2016/3/12 8:33:13,6,spring,study,curtain,4,ON
+231,         2016/3/12 8:33:30 ,6,spring,living_room,soft_music,6,ON
+232,         2016/3/12 8:33:46 ,6,spring,living_room,TV,5,ON
+233,         2016/3/12 9:00:20 ,6,spring,Washroom,heater,8,OFF
+234,         2016/3/12 9:32:23 ,6,spring,kitchen,electric_cookers,9,OFF
+235,         2016/3/12 9:51:24 ,6,spring,living_room,TV,5,OFF
+236,         2016/3/12 9:51:46 ,6,spring,living_room,soft_music,6,OFF
+237,         2016/3/12 9:52:10 ,6,spring,living_room,air_conditioner,3,OFF
+238,         2016/3/12 9:53:44 ,6,spring,bedroom,light,7,OFF
+239,         2016/3/12 9:55:35,6,spring,living_room,light,1,OFF
+240,         2016/3/12 13:02:20 ,6,spring,living_room,soft_music,6,ON
+241,         2016/3/12 13:02:55 ,6,spring,living_room,air_conditioner,3,ON
+242,         2016/3/12 14:03:46 ,6,spring,living_room,air_conditioner,3,OFF
+243,         2016/3/12 14:04:02 ,6,spring,living_room,soft_music,6,OFF
+244,         2016/3/12 18:01:41 ,6,spring,living_room,light,1,ON
+245,         2016/3/12 18:02:21 ,6,spring,living_room,air_conditioner,3,ON
+246,         2016/3/12 18:02:25 ,6,spring,study,curtain,4,OFF
+247,         2016/3/12 18:02:55 ,6,spring,kitchen,electric_cookers,9,ON
+248,         2016/3/12 18:03:00,6,spring,living_room,TV,5,ON
+249,         2016/3/12 19:00:00 ,6,spring,kitchen,electric_cookers,9,OFF
+250,         2016/3/12 22:03:54 ,6,spring,bedroom,light,7,ON
+251,         2016/3/12 22:04:00 ,6,spring,Washroom,heater,8,ON
+252,         2016/3/12 22:11:06 ,6,spring,Washroom,heater,8,OFF
+253,         2016/3/12 22:30:46 ,6,spring,living_room,TV,5,OFF
+254,         2016/3/12 22:31:00 ,6,spring,living_room,air_conditioner,3,OFF
+255,         2016/3/12 22:31:05 ,6,spring,living_room,light,1,OFF
+256,         2016/3/12 22:31:30 ,6,spring,bedroom,light,7,OFF

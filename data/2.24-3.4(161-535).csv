@@ -1,0 +1,384 @@
+161,2016/2/24 6:29,3,winter,bedroom,light,7,ON
+162,2016/2/24 7:31,3,winter,living room,light,1,ON
+163,2016/2/24 7:32,3,winter,living room,air condioner,3,ON
+164,2016/2/24 7:33,3,winter,stuty,curtain,4,ON
+165,2016/2/24 7:33,3,winter,washroom,heater,8,ON
+165,2016/2/24 7:33,3,winter,kitchen,electric cookers,9,ON
+166,2016/2/24 7:34,3,winter,living room,soft music,6,ON
+167,2016/2/24 7:36,3,winter,living room,TV,5,ON
+168,2016/2/24 7:40,3,winter,washroom,heater,8,OFF
+169,2016/2/24 7:57,3,winter,kitchen,electric cookers,9,OFF
+170,2016/2/24 7:57,3,winter,living room,soft music,6,OFF
+171,2016/2/24 7:57,3,winter,living room,TV,5,OFF
+172,2016/2/24 7:58,3,winter,living room,air  condioner,3,OFF
+173,2016/2/24 7:57,3,winter,bedroom,light,7,OFF
+174,2016/2/24 7:57,3,winter,living room,light,1,OFF
+175,2016/2/24 13:30,3,winter,living room,air condioner,3,ON
+176,2016/2/24 13:31,3,winter,living room,soft music,6,ON
+177,2016/2/24 14:35,3,winter,living room,air condioner,3,OFF
+178,2016/2/24 14:36,3,winter,living room,soft music,6,OFF
+179,2016/2/24 16:29,3,winter,living room,light,1,ON
+180,2016/2/24 17:31,3,winter,stuty,curtain,4,OFF
+181,2016/2/24 17:32,3,winter,living room,air condioner,3,ON
+182,2016/2/24 17:33,3,winter,kitchen,electric cookers,9,ON
+183,2016/2/24 17:33,3,winter,living room,TV,5,ON
+184,2016/2/24 17:57,3,winter,kitchen,electric cookers,9,OFF
+185,2016/2/24 20:59,3,winter,living room,light,1,ON
+186,2016/2/24 20:59,3,winter,washroom,heater,8,ON
+187,2016/2/24 21:10,3,winter,washroom,heater,8,ON
+188,2016/2/24 21:10,3,winter,living room,TV,5,ON
+189,2016/2/24 21:32,3,winter,living room,air condioner,3,ON
+190,2016/2/24 21:33,3,winter,living room,light,1,ON
+191,2016/2/24 21:34,3,winter,bedroom,light,7,ON
+192,2016/2/25 6:29,4,winter,bedroom,light,7,ON
+193,2016/2/25 7:31,4,winter,living room,light,1,ON
+194,2016/2/25 7:32,4,winter,living room,air condioner,3,ON
+195,2016/2/25 7:33,4,winter,stuty,curtain,4,ON
+196,2016/2/25 7:33,4,winter,washroom,heater,8,ON
+197,2016/2/25 7:33,4,winter,kitchen,electric cookers,9,ON
+198,2016/2/25 7:34,4,winter,living room,soft music,6,ON
+199,2016/2/25 7:36,4,winter,living room,TV,5,ON
+200,2016/2/25 7:40,4,winter,washroom,heater,8,OFF
+201,2016/2/25 7:57,4,winter,kitchen,electric cookers,9,OFF
+202,2016/2/25 8:01,4,winter,living room,soft music,6,OFF
+203,2016/2/25 8:02,4,winter,living room,TV,5,OFF
+204,2016/2/25 8:03,4,winter,living room,air  condioner,3,OFF
+205,2016/2/25 7:57,4,winter,bedroom,light,7,OFF
+206,2016/2/25 7:57,4,winter,living room,light,1,OFF
+207,2016/2/25 13:30,4,winter,living room,air condioner,3,ON
+208,2016/2/25 13:31,4,winter,living room,soft music,6,ON
+209,2016/2/25 14:37,4,winter,living room,air condioner,3,OFF
+210,2016/2/25 14:37,4,winter,living room,soft music,6,OFF
+211,2016/2/25 16:29,4,winter,living room,light,1,ON
+212,2016/2/25 17:31,4,winter,stuty,curtain,4,OFF
+213,2016/2/25 17:32,4,winter,living room,air condioner,3,ON
+214,2016/2/25 17:33,4,winter,kitchen,electric cookers,9,ON
+215,2016/2/25 17:33,4,winter,living room,TV,5,ON
+216,2016/2/25 17:57,4,winter,kitchen,electric cookers,9,OFF
+217,2016/2/25 20:59,4,winter,living room,light,1,ON
+218,2016/2/25 20:59,4,winter,washroom,heater,8,ON
+187,2016/2/25 21:10,4,winter,washroom,heater,8,ON
+219,2016/2/25 21:10,4,winter,living room,TV,5,ON
+220,2016/2/25 21:32,4,winter,living room,air condioner,3,ON
+221,2016/2/25 21:33,4,winter,living room,light,1,ON
+222,2016/2/25 21:34,4,winter,bedroom,light,7,ON
+223,2016/2/26 6:29,5,winter,bedroom,light,7,ON
+224,2016/2/26 7:31,5,winter,living room,light,1,ON
+225,2016/2/26 7:32,5,winter,living room,air condioner,3,ON
+226,2016/2/26 7:33,5,winter,stuty,curtain,4,ON
+227,2016/2/26 7:33,5,winter,washroom,heater,8,ON
+228,2016/2/26 7:33,5,winter,kitchen,electric cookers,9,ON
+229,2016/2/26 7:34,5,winter,living room,soft music,6,ON
+230,2016/2/26 7:36,5,winter,living room,TV,5,ON
+231,2016/2/26 7:40,5,winter,washroom,heater,8,OFF
+232,2016/2/26 7:57,5,winter,kitchen,electric cookers,9,OFF
+233,2016/2/26 8:01,5,winter,living room,soft music,6,OFF
+234,2016/2/26 8:02,5,winter,living room,TV,5,OFF
+235,2016/2/26 8:03,5,winter,living room,air  condioner,3,OFF
+236,2016/2/26 7:57,5,winter,bedroom,light,7,OFF
+237,2016/2/26 7:57,5,winter,living room,light,1,OFF
+238,2016/2/26 13:30,5,winter,living room,air condioner,3,ON
+239,2016/2/26 13:31,5,winter,living room,soft music,6,ON
+240,2016/2/26 14:43,5,winter,living room,air condioner,3,OFF
+241,2016/2/26 14:45,5,winter,living room,soft music,6,OFF
+242,2016/2/26 16:29,5,winter,living room,light,1,ON
+243,2016/2/26 17:31,5,winter,stuty,curtain,4,OFF
+244,2016/2/26 17:32,5,winter,living room,air condioner,3,ON
+245,2016/2/26 17:33,5,winter,kitchen,electric cookers,9,ON
+246,2016/2/26 17:33,5,winter,living room,TV,5,ON
+247,2016/2/26 17:57,5,winter,kitchen,electric cookers,9,OFF
+248,2016/2/26 20:59,5,winter,living room,light,1,ON
+249,2016/2/26 20:59,5,winter,washroom,heater,8,ON
+187,2016/2/24 21:14,5,winter,washroom,heater,8,ON
+250,2016/2/26 21:19,5,winter,living room,TV,5,ON
+251,2016/2/26 21:32,5,winter,living room,air condioner,3,ON
+252,2016/2/26 21:33,5,winter,living room,light,1,ON
+253,2016/2/26 21:34,5,winter,bedroom,light,7,ON
+254,2016/2/26 7:57,6,winter,bedroom,light,7,ON
+255,2016/2/26 8:31,6,winter,living room,light,1,ON
+256,2016/2/26 8:31,6,winter,living room,air condioner,3,ON
+257,2016/2/26 8:32,6,winter,stuty,curtain,4,ON
+258,2016/2/26 8:33,6,winter,washroom,heater,8,ON
+259,2016/2/26 8:33,6,winter,kitchen,electric cookers,9,ON
+260,2016/2/26 8:35,6,winter,living room,soft music,6,ON
+261,2016/2/26 8:36,6,winter,living room,TV,5,ON
+262,2016/2/26 9:01,6,winter,washroom,heater,8,OFF
+263,2016/2/26 9:01,6,winter,kitchen,electric cookers,9,OFF
+264,2016/2/26 9:57,6,winter,living room,soft music,6,OFF
+265,2016/2/26 10:01,6,winter,living room,TV,5,OFF
+266,2016/2/26 10:02,6,winter,living room,air  condioner,3,OFF
+267,2016/2/26 10:03,6,winter,bedroom,light,7,OFF
+268,2016/2/26 10:04,6,winter,living room,light,1,OFF
+269,2016/2/26 13:01,6,winter,living room,air condioner,3,ON
+270,2016/2/26 13:01,6,winter,living room,soft music,6,ON
+271,2016/2/26 14:00,6,winter,living room,air condioner,3,OFF
+272,2016/2/26 14:01,6,winter,living room,soft music,6,OFF
+273,2016/2/26 17:57,6,winter,living room,light,1,ON
+274,2016/2/26 18:01,6,winter,stuty,curtain,4,OFF
+275,2016/2/26 18:02,6,winter,living room,air condioner,3,ON
+276,2016/2/26 18:03,6,winter,kitchen,electric cookers,9,ON
+277,2016/2/26 18:04,6,winter,living room,TV,5,ON
+278,2016/2/26 18:58,6,winter,kitchen,electric cookers,9,OFF
+279,2016/2/26 22:00,6,winter,living room,light,1,ON
+280,2016/2/26 22:01,6,winter,washroom,heater,8,ON
+281,2016/2/26 22:10,6,winter,washroom,heater,8,ON
+282,2016/2/26 22:30,6,winter,living room,TV,5,ON
+283,2016/2/26 22:32,6,winter,living room,air condioner,3,ON
+284,2016/2/26 22:33,6,winter,living room,light,1,ON
+285,2016/2/26 22:33,6,winter,bedroom,light,7,ON
+286,2016/2/26 6:29,7,winter,bedroom,light,,ON
+287,2016/2/26 7:31,7,winter,living room,light,,ON
+288,2016/2/26 7:32,7,winter,living room,air condioner,,ON
+289,2016/2/26 7:33,7,winter,stuty,curtain,,ON
+290,2016/2/26 7:33,7,winter,washroom,heater,,ON
+291,2016/2/26 7:33,7,winter,kitchen,electric cookers,,ON
+292,2016/2/26 7:36,7,winter,living room,soft music,,ON
+293,2016/2/26 7:36,7,winter,living room,TV,,ON
+294,2016/2/26 7:40,7,winter,washroom,heater,,OFF
+295,2016/2/26 7:57,7,winter,kitchen,electric cookers,,OFF
+296,2016/2/26 8:01,7,winter,living room,soft music,,OFF
+297,2016/2/26 8:02,7,winter,living room,TV,,OFF
+298,2016/2/26 8:03,7,winter,living room,air  condioner,,OFF
+299,2016/2/26 8:36,7,winter,bedroom,light,,OFF
+300,2016/2/26 8:36,7,winter,living room,light,,OFF
+301,2016/2/26 13:30,7,winter,living room,air condioner,,ON
+302,2016/2/26 13:31,7,winter,living room,soft music,,ON
+303,2016/2/26 14:28,7,winter,living room,air condioner,,OFF
+304,2016/2/26 14:28,7,winter,living room,soft music,,OFF
+305,2016/2/26 16:29,7,winter,living room,light,,ON
+306,2016/2/26 17:31,7,winter,stuty,curtain,,OFF
+307,2016/2/26 17:32,7,winter,living room,air condioner,,ON
+308,2016/2/26 17:33,7,winter,kitchen,electric cookers,,ON
+309,2016/2/26 17:33,7,winter,living room,TV,,ON
+310,2016/2/26 17:57,7,winter,kitchen,electric cookers,,OFF
+311,2016/2/26 20:59,7,winter,living room,light,,ON
+312,2016/2/26 20:59,7,winter,washroom,heater,,ON
+313,2016/2/26 22:10,7,winter,washroom,heater,8,ON
+314,2016/2/26 21:10,7,winter,living room,TV,,ON
+315,2016/2/26 21:32,7,winter,living room,air condioner,,ON
+316,2016/2/26 21:33,7,winter,living room,light,,ON
+317,2016/2/26 21:34,7,winter,bedroom,light,,ON
+318,2016/2/27 6:29,1,winter,bedroom,light,7,ON
+319,2016/2/27 7:31,1,winter,living room,light,1,ON
+320,2016/2/27 7:32,1,winter,living room,air condioner,3,ON
+321,2016/2/27 7:33,1,winter,stuty,curtain,4,ON
+322,2016/2/27 7:33,1,winter,washroom,heater,8,ON
+323,2016/2/27 7:33,1,winter,kitchen,electric cookers,9,ON
+327,2016/2/27 7:34,1,winter,living room,soft music,6,ON
+325,2016/2/27 7:36,1,winter,living room,TV,5,ON
+326,2016/2/27 7:40,1,winter,washroom,heater,8,OFF
+327,2016/2/27 7:57,1,winter,kitchen,electric cookers,9,OFF
+328,2016/2/27 7:57,1,winter,living room,soft music,6,OFF
+329,2016/2/27 7:57,1,winter,living room,TV,5,OFF
+330,2016/2/27 7:57,1,winter,living room,air  condioner,3,OFF
+331,2016/2/27 7:57,1,winter,bedroom,light,7,OFF
+332,2016/2/27 7:57,1,winter,living room,light,1,OFF
+333,2016/2/27 13:30,1,winter,living room,air condioner,3,ON
+334,2016/2/27 13:31,1,winter,living room,soft music,6,ON
+335,2016/2/27 14:28,1,winter,living room,air condioner,3,OFF
+336,2016/2/27 14:28,1,winter,living room,soft music,6,OFF
+337,2016/2/27 16:29,1,winter,living room,light,1,ON
+338,2016/2/27 17:31,1,winter,stuty,curtain,4,OFF
+339,2016/2/27 17:32,1,winter,living room,air condioner,3,ON
+340,2016/2/27 17:33,1,winter,kitchen,electric cookers,9,ON
+341,2016/2/27 17:33,1,winter,living room,TV,5,ON
+342,2016/2/27 17:57,1,winter,kitchen,electric cookers,9,OFF
+343,2016/2/27 20:59,1,winter,living room,light,1,ON
+345,2016/2/27 20:59,1,winter,washroom,heater,8,ON
+346,2016/2/27 21:10,1,winter,washroom,heater,8,ON
+347,2016/2/27 21:10,1,winter,living room,TV,5,ON
+348,2016/2/27 21:32,1,winter,living room,air condioner,3,ON
+349,2016/2/27 21:33,1,winter,living room,light,1,ON
+350,2016/2/27 21:34,1,winter,bedroom,light,7,ON
+351,2016/2/28 6:29,2,winter,bedroom,light,7,ON
+352,2016/2/28 7:31,2,winter,living room,light,1,ON
+353,2016/2/28 7:32,2,winter,living room,air condioner,3,ON
+354,2016/2/28 7:33,2,winter,stuty,curtain,4,ON
+355,2016/2/28 7:33,2,winter,washroom,heater,8,ON
+356,2016/2/28 7:33,2,winter,kitchen,electric cookers,9,ON
+357,2016/2/28 7:34,2,winter,living room,soft music,6,ON
+358,2016/2/28 7:36,2,winter,living room,TV,5,ON
+359,2016/2/28 7:40,2,winter,washroom,heater,8,OFF
+360,2016/2/28 7:57,2,winter,kitchen,electric cookers,9,OFF
+361,2016/2/28 7:57,2,winter,living room,soft music,6,OFF
+362,2016/2/28 7:57,2,winter,living room,TV,5,OFF
+363,2016/2/28 7:57,2,winter,living room,air  condioner,3,OFF
+364,2016/2/28 7:57,2,winter,bedroom,light,7,OFF
+365,2016/2/28 7:57,2,winter,living room,light,1,OFF
+366,2016/2/28 13:30,2,winter,living room,air condioner,3,ON
+367,2016/2/28 13:31,2,winter,living room,soft music,6,ON
+368,2016/2/28 14:28,2,winter,living room,air condioner,3,OFF
+369,2016/2/28 14:28,2,winter,living room,soft music,6,OFF
+370,2016/2/28 16:29,2,winter,living room,light,1,ON
+371,2016/2/28 17:31,2,winter,stuty,curtain,4,OFF
+372,2016/2/28 17:32,2,winter,living room,air condioner,3,ON
+373,2016/2/28 17:33,2,winter,kitchen,electric cookers,9,ON
+374,2016/2/28 17:33,2,winter,living room,TV,5,ON
+375,2016/2/28 17:57,2,winter,kitchen,electric cookers,9,OFF
+376,2016/2/28 20:59,2,winter,living room,light,1,ON
+377,2016/2/28 20:59,2,winter,washroom,heater,8,ON
+378,2016/2/28 21:10,2,winter,washroom,heater,8,ON
+379,2016/2/28 21:10,2,winter,living room,TV,5,ON
+380,2016/2/28 21:32,2,winter,living room,air condioner,3,ON
+381,2016/2/28 21:33,2,winter,living room,light,1,ON
+382,2016/2/28 21:34,2,winter,bedroom,light,7,ON
+383,2016/2/29 6:29,3,winter,bedroom,light,7,ON
+384,2016/2/29 7:31,3,winter,living room,light,1,ON
+385,2016/2/29 7:32,3,winter,living room,air condioner,3,ON
+386,2016/2/29 7:33,3,winter,stuty,curtain,4,ON
+387,2016/2/29 7:33,3,winter,washroom,heater,8,ON
+388,2016/2/29 7:33,3,winter,kitchen,electric cookers,9,ON
+389,2016/2/29 7:34,3,winter,living room,soft music,6,ON
+390,2016/2/29 7:36,3,winter,living room,TV,5,ON
+391,2016/2/29 7:40,3,winter,washroom,heater,8,OFF
+392,2016/2/29 7:57,3,winter,kitchen,electric cookers,9,OFF
+393,2016/2/29 7:57,3,winter,living room,soft music,6,OFF
+394,2016/2/29 7:57,3,winter,living room,TV,5,OFF
+395,2016/2/29 7:57,3,winter,living room,air  condioner,3,OFF
+396,2016/2/29 7:57,3,winter,bedroom,light,7,OFF
+397,2016/2/29 7:57,3,winter,living room,light,1,OFF
+398,2016/2/29 13:30,3,winter,living room,air condioner,3,ON
+399,2016/2/29 13:31,3,winter,living room,soft music,6,ON
+400,2016/2/29 14:28,3,winter,living room,air condioner,3,OFF
+401,2016/2/29 14:28,3,winter,living room,soft music,6,OFF
+402,2016/2/29 16:29,3,winter,living room,light,1,ON
+403,2016/2/29 17:31,3,winter,stuty,curtain,4,OFF
+404,2016/2/29 17:32,3,winter,living room,air condioner,3,ON
+405,2016/2/29 17:33,3,winter,kitchen,electric cookers,9,ON
+406,2016/2/29 17:33,3,winter,living room,TV,5,ON
+407,2016/2/29 17:57,3,winter,kitchen,electric cookers,9,OFF
+408,2016/2/29 20:59,3,winter,living room,light,1,ON
+409,2016/2/29 20:59,3,winter,washroom,heater,8,ON
+410,2016/2/29 21:10,3,winter,washroom,heater,8,ON
+411,2016/2/29 21:10,3,winter,living room,TV,5,ON
+412,2016/2/29 21:32,3,winter,living room,air condioner,3,ON
+413,2016/2/29 21:33,3,winter,living room,light,1,ON
+414,2016/2/29 21:34,3,winter,bedroom,light,7,ON
+415,2016/3/1 6:29,4,spring,bedroom,light,7,ON
+416,2016/3/1 7:31,4,spring,living room,light,1,ON
+417,2016/3/1 7:32,4,spring,living room,air condioner,3,ON
+418,2016/3/1 7:33,4,spring,stuty,curtain,4,ON
+419,2016/3/1 7:33,4,spring,washroom,heater,8,ON
+420,2016/3/1 7:33,4,spring,kitchen,electric cookers,9,ON
+421,2016/3/1 7:34,4,spring,living room,soft music,6,ON
+422,2016/3/1 7:36,4,spring,living room,TV,5,ON
+423,2016/3/1 7:40,4,spring,washroom,heater,8,OFF
+424,2016/3/1 7:57,4,spring,kitchen,electric cookers,9,OFF
+425,2016/3/1 7:57,4,spring,living room,soft music,6,OFF
+426,2016/3/1 8:31,4,spring,living room,TV,5,OFF
+427,2016/3/1 8:31,4,spring,living room,air  condioner,3,OFF
+428,2016/3/1 8:32,4,spring,bedroom,light,7,OFF
+429,2016/3/1 8:32,4,spring,living room,light,1,OFF
+430,2016/3/1 13:30,4,spring,living room,air condioner,3,ON
+431,2016/3/1 13:31,4,spring,living room,soft music,6,ON
+432,2016/3/1 14:36,4,spring,living room,air condioner,3,OFF
+433,2016/3/1 14:39,4,spring,living room,soft music,6,OFF
+434,2016/3/1 16:29,4,spring,living room,light,1,ON
+435,2016/3/1 17:31,4,spring,stuty,curtain,4,OFF
+436,2016/3/1 17:33,4,spring,living room,air condioner,3,ON
+437,2016/3/1 17:33,4,spring,kitchen,electric cookers,9,ON
+438,2016/3/1 17:33,4,spring,living room,TV,5,ON
+439,2016/3/1 17:57,4,spring,kitchen,electric cookers,9,OFF
+440,2016/3/1 20:59,4,spring,living room,light,1,ON
+441,2016/3/1 20:59,4,spring,washroom,heater,8,ON
+442,2016/3/1 21:10,4,spring,washroom,heater,8,ON
+443,2016/3/1 21:10,4,spring,living room,TV,5,ON
+444,2016/3/1 21:32,4,spring,living room,air condioner,3,ON
+445,2016/3/1 21:33,4,spring,living room,light,1,ON
+446,2016/3/1 21:34,4,spring,bedroom,light,7,ON
+447,2016/3/2 6:29,5,spring,bedroom,light,7,ON
+448,2016/3/2 7:31,5,spring,living room,light,1,ON
+449,2016/3/2 7:32,5,spring,living room,air condioner,3,ON
+450,2016/3/2 7:33,5,spring,stuty,curtain,4,ON
+451,2016/3/2 7:33,5,spring,washroom,heater,8,ON
+452,2016/3/2 7:33,5,spring,kitchen,electric cookers,9,ON
+453,2016/3/2 7:34,5,spring,living room,soft music,6,ON
+454,2016/3/2 7:36,5,spring,living room,TV,5,ON
+455,2016/3/2 7:40,5,spring,washroom,heater,8,OFF
+456,2016/3/2 7:57,5,spring,kitchen,electric cookers,9,OFF
+457,2016/3/2 7:57,5,spring,living room,soft music,6,OFF
+458,2016/3/2 7:57,5,spring,living room,TV,5,OFF
+459,2016/3/2 7:57,5,spring,living room,air  condioner,3,OFF
+460,2016/3/2 7:57,5,spring,bedroom,light,7,OFF
+461,2016/3/2 7:57,5,spring,living room,light,1,OFF
+462,2016/3/2 13:30,5,spring,living room,air condioner,3,ON
+463,2016/3/2 13:31,5,spring,living room,soft music,6,ON
+464,2016/3/2 14:36,5,spring,living room,air condioner,3,OFF
+465,2016/3/2 14:38,5,spring,living room,soft music,6,OFF
+466,2016/3/2 16:29,5,spring,living room,light,1,ON
+467,2016/3/2 17:31,5,spring,stuty,curtain,4,OFF
+461,2016/3/2 17:32,5,spring,living room,air condioner,3,ON
+462,2016/3/2 17:33,5,spring,kitchen,electric cookers,9,ON
+463,2016/3/2 17:33,5,spring,living room,TV,5,ON
+464,2016/3/2 17:57,5,spring,kitchen,electric cookers,9,OFF
+465,2016/3/2 20:59,5,spring,living room,light,1,ON
+466,2016/3/2 20:59,5,spring,washroom,heater,8,ON
+467,2016/3/2 21:10,5,spring,washroom,heater,8,ON
+468,2016/3/2 21:10,5,spring,living room,TV,5,ON
+469,2016/3/2 21:32,5,spring,living room,air condioner,3,ON
+470,2016/3/2 21:33,5,spring,living room,light,1,ON
+471,2016/3/2 21:34,5,spring,bedroom,light,7,ON
+472,2016/3/3 7:57,6,spring,bedroom,light,7,ON
+473,2016/3/3 8:31,6,spring,living room,light,1,ON
+474,2016/3/3 8:31,6,spring,living room,air condioner,3,ON
+475,2016/3/3 8:32,6,spring,stuty,curtain,4,ON
+476,2016/3/3 8:33,6,spring,washroom,heater,8,ON
+477,2016/3/3 8:33,6,spring,kitchen,electric cookers,9,ON
+478,2016/3/3 8:35,6,spring,living room,soft music,6,ON
+479,2016/3/3 8:36,6,spring,living room,TV,5,ON
+480,2016/3/3 8:51,6,spring,washroom,heater,8,OFF
+481,2016/3/3 8:56,6,spring,kitchen,electric cookers,9,OFF
+482,2016/3/3 9:57,6,spring,living room,soft music,6,OFF
+483,2016/3/3 10:01,6,spring,living room,TV,5,OFF
+484,2016/3/3 10:02,6,spring,living room,air  condioner,3,OFF
+485,2016/3/3 10:03,6,spring,bedroom,light,7,OFF
+486,2016/3/3 10:04,6,spring,living room,light,1,OFF
+487,2016/3/3 13:11,6,spring,living room,air condioner,3,ON
+488,2016/3/3 13:01,6,spring,living room,soft music,6,ON
+489,2016/3/3 14:00,6,spring,living room,air condioner,3,OFF
+490,2016/3/3 14:01,6,spring,living room,soft music,6,OFF
+491,2016/3/3 17:57,6,spring,living room,light,1,ON
+492,2016/3/3 18:01,6,spring,stuty,curtain,4,OFF
+493,2016/3/3 18:02,6,spring,living room,air condioner,3,ON
+494,2016/3/3 18:03,6,spring,kitchen,electric cookers,9,ON
+495,2016/3/3 18:04,6,spring,living room,TV,5,ON
+496,2016/3/3 18:58,6,spring,kitchen,electric cookers,9,OFF
+497,2016/3/3 22:00,6,spring,living room,light,1,ON
+498,2016/3/3 22:01,6,spring,washroom,heater,8,ON
+499,2016/3/3 22:10,6,spring,washroom,heater,8,ON
+500,2016/3/3 22:30,6,spring,living room,TV,5,ON
+501,2016/3/3 22:32,6,spring,living room,air condioner,3,ON
+502,2016/3/3 22:33,6,spring,living room,light,1,ON
+503,2016/3/3 22:33,6,spring,bedroom,light,7,ON
+504,2016/3/4 8:57,7,spring,bedroom,light,7,ON
+505,2016/3/4 8:58,7,spring,living room,light,1,ON
+506,2016/3/4 9:01,7,spring,living room,air condioner,3,ON
+507,2016/3/4 9:01,7,spring,stuty,curtain,4,ON
+508,2016/3/4 9:02,7,spring,washroom,heater,8,ON
+509,2016/3/4 9:02,7,spring,kitchen,electric cookers,9,ON
+510,2016/3/4 9:03,7,spring,living room,soft music,6,ON
+511,2016/3/4 9:03,7,spring,living room,TV,5,ON
+512,2016/3/4 9:11,7,spring,washroom,heater,8,OFF
+513,2016/3/4 9:21,7,spring,kitchen,electric cookers,9,OFF
+514,2016/3/4 9:57,7,spring,living room,soft music,6,OFF
+515,2016/3/4 10:01,7,spring,living room,TV,5,OFF
+516,2016/3/4 10:02,7,spring,living room,air  condioner,3,OFF
+517,2016/3/4 10:03,7,spring,bedroom,light,7,OFF
+518,2016/3/4 10:04,7,spring,living room,light,1,OFF
+519,2016/3/4 12:49,7,spring,living room,air condioner,3,ON
+520,2016/3/4 12:53,7,spring,living room,soft music,6,ON
+521,2016/3/4 14:00,7,spring,living room,air condioner,3,OFF
+522,2016/3/4 14:01,7,spring,living room,soft music,6,OFF
+523,2016/3/4 17:57,7,spring,living room,light,1,ON
+524,2016/3/4 18:01,7,spring,stuty,curtain,4,OFF
+525,2016/3/4 18:02,7,spring,living room,air condioner,3,ON
+526,2016/3/4 18:03,7,spring,kitchen,electric cookers,9,ON
+527,2016/3/4 18:04,7,spring,living room,TV,5,ON
+528,2016/3/4 18:58,7,spring,kitchen,electric cookers,9,OFF
+529,2016/3/4 22:00,7,spring,living room,light,1,ON
+530,2016/3/4 22:01,7,spring,washroom,heater,8,ON
+531,2016/3/4 22:10,7,spring,washroom,heater,8,ON
+532,2016/3/4 22:30,7,spring,living room,TV,5,ON
+533,2016/3/4 22:32,7,spring,living room,air condioner,3,ON
+534,2016/3/4 22:33,7,spring,living room,light,1,ON
+535,2016/3/4 22:33,7,spring,bedroom,light,7,ON
