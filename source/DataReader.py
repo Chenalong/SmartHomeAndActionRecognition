@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-这个文件负责数据的读取和对缺失数据的填补和处理
+这个文件负责数据的读取和对缺失数据的填补和处理，并返回一个列表，每个列表中的元素是一个字典，字典形式如下所示：
+｛'week':5,'device_location':'bedroom','season':4,'device_status':1,'device_name':'light','days_after_1970':16850,'time_field_segment':15,'device_id':7｝
+
 """
 
 import os
@@ -20,6 +22,28 @@ def obtain_time_disperse_degree():
     config.read('ConfigFile.txt')
     return config.get("TimeDisperseDegree", "length")
 
+
+def obtain_id_for_action(id):
+    config = ConfigParser.ConfigParser()
+    config.read('ConfigFile.txt')
+    return config.get("id_action", str(id))
+
+
+def obtain_action_num():
+    config = ConfigParser.ConfigParser()
+    config.read('ConfigFile.txt')
+    return config.get("action_num", 'num')
+
+def obtain_action_name():
+    config = ConfigParser.ConfigParser()
+    config.read('ConfigFile.txt')
+    action_num = int(obtain_action_num())
+    action_name_list = []
+    for i in range(action_num):
+        if i == 1 or i == 4 or i == 5:
+            continue
+        action_name_list.append(obtain_id_for_action(i))
+    return action_name_list
 
 def process_data_file(file_path, data_list):
     file_read = codecs.open(file_path, "r")
@@ -52,6 +76,12 @@ def cal_date_diff(date_str):
     return (date_now - date_1970).days
 
 
+def date_format(date):
+    date_1970 = datetime.datetime(1970, 1, 1)
+    date_now = date_1970 + datetime.timedelta(days=date)
+    return str(date_now)
+
+
 def change_season_to_num(season_str):
     if season_str == "spring":
         return 1
@@ -64,7 +94,7 @@ def change_season_to_num(season_str):
 
 
 def change_status_to_binary(device_status_str):
-    if device_status_str == "NO":
+    if device_status_str == "OFF":
         return 0
     return 1
 
@@ -82,7 +112,7 @@ def data_transformation(data):
     data_dic['time_field_segment'] = (int(time_str.split(':')[0]) * 60 + int(
         time_str.split(':')[1])) / time_disperse_degree
     data_dic['week'] = int(field_array[2])
-    data_dic['season '] = change_season_to_num(field_array[3])
+    data_dic['season'] = change_season_to_num(field_array[3])
     data_dic['device_location'] = field_array[4]
     data_dic['device_name'] = field_array[5]
     if field_array[6] == '':
@@ -133,6 +163,7 @@ def format_data_reader():
     data_clean(data_list)
     format_data_list = data_format(data_list)
     data_fill(format_data_list)
+    write_format_data_2_file(format_data_list)
     return format_data_list
 
 
@@ -145,5 +176,5 @@ def write_format_data_2_file(format_data_list):
 
 
 # if __name__ == '__main__':
-#     format_data_list = format_data_reader()
+# format_data_list = format_data_reader()
 #     # write_format_data_2_file(format_data_list)
